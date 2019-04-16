@@ -1,0 +1,1 @@
+git-crypt enables transparent encryption and decryption of files in a git repository.
