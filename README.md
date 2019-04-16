@@ -39,7 +39,7 @@ $ cd demo-for-git-crypt/
 cat src/file1.txt
 GITCRYPT▒▒▒▒k▒▒f▒w,▒▒N▒.▒x▒▒#▒|▒▒▒i▒+.▒l▒▒@▒*▒(#▒8A▒▒vehQwC▒▒a\▒F9ye▒▒▒:▒▒▒a▒Mc▒▒b▒(▒▒▒?jIC▒▒▒▒
 ```
-The ks here in this demo base64 encoded, what is normally not the case. You see the secret key below.
+The key is here in this demo base64 encoded. You see the secret key below.
 ```
 $ echo 'AEdJVENSWVBUS0VZAAAAAgAAAAAAAAABAAAABAAAAAAAAAADAAAAIEsTXN0sC27YC3RU9BiVZiSD
 H20KvfYyim+O/T5j4kl5AAAABQAAAEDWHoH2ZB7GdQ+FhCluDD+z0CiaSqYMqBEj2Cn+A1T+YgH2
