@@ -2,6 +2,10 @@
 This repository shows the working of git-crypt
 ## What is it about?
 There is a usefull package *git-crypt* for encrypting a git repository. As an example, a directory *src* of this repository has been encrypted.
+### Other possibilities
+Another tool with similar aim is
+https://github.com/spwhitton/git-remote-gcrypt
+
 ## How does it work?
 You install the package *git-crypt* as follows:
 ```
